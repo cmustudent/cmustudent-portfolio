@@ -7,7 +7,7 @@ Hello!  I'm a student in the Telling Stories with Data course.
 # What I hope to learn
 I hope to learn...
 
-![Image of Yaktocat](/planet_fitness.jpg)
+![Image of Planet Fitness Rating Scale](/planet_fitness.jpg)
 
 # Portfolio
 Here's where all of my cool data visualizations will go!  
