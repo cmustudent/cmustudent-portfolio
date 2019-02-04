@@ -1,5 +1,5 @@
 # cmustudent-portfolio
-This is my public portfolio for the Telling Stories with Data class at CMU!
+This is my public portfolio for the Telling Stories with [Data class at CMU](page2.md)!
 
 # About me
 Hello!  I'm a student in the Telling Stories with Data course.  
