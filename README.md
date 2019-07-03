@@ -9,6 +9,8 @@ I hope to learn...
 
 ![Image of Planet Fitness Rating Scale](/planet_fitness.jpg)
 
+[Link to other page](/page2.md)
+
 # Portfolio
 Here's where all of my cool data visualizations will go!  
 
