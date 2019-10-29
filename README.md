@@ -7,7 +7,15 @@ Hello!  I'm a student in the Telling Stories with Data course.
 # What I hope to learn
 I hope to learn...
 
+Here's an example of how to add an image to my portfolio.  
+
 ![Image of Planet Fitness Rating Scale](planet_fitness.jpg)
+
+Alternately, you can set the size of the image using just a bit of HTML: 
+
+<img src="planet_fitness.png" width="200">
+
+Here's an example of how to link to another page using Markdown.
 
 [Link to other page](page2.md)
 
