@@ -13,7 +13,7 @@ Here's an example of how to add an image to my portfolio.
 
 Alternately, you can set the size of the image using just a bit of HTML: 
 
-<img src="planet_fitness.png" width="200">
+<img src="planet_fitness.png" width="200"/>
 
 Here's an example of how to link to another page using Markdown.
 
