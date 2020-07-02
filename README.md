@@ -4,7 +4,7 @@ This is my public portfolio for the Telling Stories with [Data class at CMU](pag
 # About me
 Hello!  I'm a student in the Telling Stories with Data course.  
 
-# What I hope to learn
+## What I hope to learn
 I hope to learn...
 
 Here's an example of how to add an image to my portfolio.  
