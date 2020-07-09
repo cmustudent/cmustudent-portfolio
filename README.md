@@ -31,7 +31,7 @@ Here's where all of my cool data visualizations will go!
 ## Government debt
 Government debt ratio from OECD, 1995 - 2018. 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3120467" data-url="https://flo.uri.sh/visualisation/3120467/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/3120042" data-url="https://flo.uri.sh/visualisation/3120042/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Government debt information for 2015. 
 
