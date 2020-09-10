@@ -24,5 +24,3 @@ Here's some **bold** text.  Here's some *italic* text.
 # Portfolio
 Here's where all of my cool data visualizations will go!  
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3707166" data-url="https://flo.uri.sh/visualisation/3707166/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
