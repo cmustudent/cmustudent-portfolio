@@ -9,7 +9,7 @@ I hope to learn...
 
 Here's an example of how to add an image to my portfolio.  
 
-![Image of Planet Fitness Rating Scale](bearbye.jpg)
+![Image of Planet Fitness Rating Scale](planet_fitness.jpg)
 
 Alternately, you can set the size of the image using just a bit of HTML: 
 
