@@ -1,4 +1,4 @@
-# cmustudent-portfolio
+# This is my portfolio
 This is my public portfolio for the Telling Stories with [Data class at CMU](page2.md)!
 
 ## About me
@@ -9,17 +9,17 @@ Here's my new text...
 
 Here's an example of how to add an image to my portfolio.  
 
-![Image of Planet Fitness Rating Scale](bearbye.jpg)
+![Cute Bear Graphic](bearbye.jpg)
 
 Alternately, you can set the size of the image using just a bit of HTML: 
 
-<img src="bearbye.jpg" width="200"/>
+<img src="bearbye.jpg" width="150"/>
 
 Here's an example of how to link to another page using Markdown.
 
-[Link to other page](page2.md)
+[Here's a new link](page2.md)
 
-Here's some **bold** text.  Here's some *italic* text. 
+**Here's some bold** text.  Here's some *italic* text. 
 
 # Portfolio
 Here's where all of my cool data visualizations will go!  
