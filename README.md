@@ -7,6 +7,8 @@ Here's an example of how to link to another page using Markdown.
 
 [Here's a new link](page2.md)
 
+[COVID line graph](newpage5.md)
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205605"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## About me
