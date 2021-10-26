@@ -1,6 +1,12 @@
 # This is my portfolio
 This is my public portfolio for the Telling Stories with [Data class at CMU](page2.md)!
 
+**Here's some bold** text.  Here's some *italic* text. 
+
+Here's an example of how to link to another page using Markdown.
+
+[Here's a new link](page2.md)
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205605"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## About me
@@ -16,12 +22,6 @@ Here's an example of how to add an image to my portfolio.
 Alternately, you can set the size of the image using just a bit of HTML: 
 
 <img src="bearbye.jpg" width="300"/>
-
-Here's an example of how to link to another page using Markdown.
-
-[Here's a new link](page2.md)
-
-**Here's some bold** text.  Here's some *italic* text. 
 
 # Portfolio
 Here's where all of my cool data visualizations will go!  
